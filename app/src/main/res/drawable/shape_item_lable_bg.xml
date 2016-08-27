@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+<!--选中效果-->
+<item android:state_selected="true">
+    <shape >
+        <solid android:color="#ffffff" />
+        <stroke android:color="@color/tv_blue"
+            android:width="2px"/>
+        <corners android:radius="10000dip"/>
+    </shape>
+</item>
+<!--默认效果-->
+<item>
+    <shape >
+        <solid android:color="#ffffff" />
+        <stroke android:color="@color/divider_gray"
+            android:width="2px"/>
+        <corners android:radius="10000dip"/>
+    </shape>
+</item>
+</selector>

@@ -1,0 +1,11 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/shape_item_lable_bg"
+    android:paddingBottom="5dip"
+    android:paddingLeft="12dip"
+    android:paddingRight="12dip"
+    android:paddingTop="5dip"
+    android:text="lable"
+    android:textSize="15sp"
+    android:textColor="@color/tv_gray" />

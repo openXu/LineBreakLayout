@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="tv_gray">#666666</color>
+    <color name="tv_blue">#308BE9</color>     //蓝色
+    <color name="divider_gray">#d9d9d9</color>//细分割线颜色
+
+</resources>

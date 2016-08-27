@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LineBreakLayout">
+        <!--标签之间左右距离-->
+        <attr name="leftAndRightSpace" format="dimension" />
+        <!--标签行距-->
+        <attr name="rowSpace" format="dimension" />
+    </declare-styleable>
+</resources>
